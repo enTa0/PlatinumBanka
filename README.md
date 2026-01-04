@@ -56,7 +56,7 @@ PlatinumBank/
 
 1. Projeyi bilgisayarınıza indirin:
 ```bash
-git clone [https://github.com/KULLANICI_ADINIZ/PlatinumBanka_Grup5.git](https://github.com/enTa0/PlatinumBanka.git)
+git clone https://github.com/enTa0/PlatinumBanka.git
 
 ```
 
